@@ -37,10 +37,10 @@ export default function MesageAnniv() {
             Joyeux Anniversaires Math !
           </h1>
           <p className="text-center text-2xl">
-            Je ne sais pas si tu as déjà eu un joyeux anniversaire comme cela !
+            One ne sait pas si tu as déjà eu un joyeux anniversaire comme cela !
           </p>
           <p className="text-center text-2xl">
-            C'est pour rendre le passage de la quarantaine plus attrayant
+            C'est pour rendre le passage de la quarantaine plus attrayant ...
           </p>
         </div>
         <div className="w-full max-w-[200px]">
