@@ -37,7 +37,7 @@ export default function MesageAnniv() {
             Joyeux Anniversaires Math !
           </h1>
           <p className="text-center text-2xl">
-            One ne sait pas si tu as déjà eu un joyeux anniversaire comme cela !
+            On ne sait pas si tu as déjà eu un joyeux anniversaire comme cela !
           </p>
           <p className="text-center text-2xl">
             C'est pour rendre le passage de la quarantaine plus attrayant ...
